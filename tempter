@@ -1,0 +1,36 @@
+#!/usr/bin/env python3
+
+"""
+    A simple program to convert temperature units including:
+        celsius, fahrenheit, kelvin and rankine conversions.
+
+    UPDATE: Power conversion is not in development
+        
+    Anyone is free to use, change, and redistribute the code.
+       
+	License: GPL2.0
+    Author: Flaymond Darius
+    
+    NOTE: Please refer to the LICENSE file for further informations about the,
+		  license.
+"""
+import temperature	# Temperature file, contains TempGreeter and,
+					# Temperature_Class
+					
+
+
+
+
+# launcher function
+def main():
+	
+	
+	#TODO list
+	e = temperature.TempGreeter()
+        e
+   
+	
+
+# useful for auto execution
+if __name__ == '__main__':
+    main()

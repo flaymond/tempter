@@ -5,9 +5,9 @@ A simple temperature unit converter in Python 3. Command line interface.
 
 1. Just download the repository as zip file, and extract it.
 
-2. run "python3 gxconv" to launch the program.
+2. run "python3 tempter" to launch the program.
 
-3. or run './gxconv' on linux system to run the program
+3. or run './tempter' on linux system to run the program
 
 ## Contributors
 
